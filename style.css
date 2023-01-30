@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p, li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
