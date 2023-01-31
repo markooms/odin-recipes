@@ -19,3 +19,26 @@ p, li {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.recipe img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.container {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    flex-wrap: wrap;
+}
+
+.recipe {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 16px;
+}
+
+body {
+    text-align: center;
+}
